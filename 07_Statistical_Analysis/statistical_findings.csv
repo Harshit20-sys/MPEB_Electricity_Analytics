@@ -1,0 +1,15 @@
+Analysis,Result
+Billed Unit Skewness,23.87099571458752
+Energy Charge Skewness,26.57805499103853
+Load KW Equivalent Skewness,23.907089053268418
+Charge Per Unit Skewness,316.1160227279689
+Rural Median Billed Unit,119.0
+Urban Median Billed Unit,59.0
+Urban Rural Median Difference,-60.0
+Bootstrap CI Lower,-63.001
+Bootstrap CI Upper,-55.2083875
+Spearman Billed Unit vs Energy Charge,-0.009323009040619811
+Spearman Energy Charge vs Load,0.5906049494378768
+Tiny Unit Record Count,476.0
+Thresholded Charge Per Unit Mean,12.018348707863485
+LV4 Top Value Concentration,61.120996441281136
