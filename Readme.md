@@ -3,7 +3,7 @@
 An end-to-end **Data Analytics Project** built using **PostgreSQL, Python, Advanced Excel, Power BI, and Statistics** to analyze electricity consumer data and create interactive dashboards for business reporting.
 
 # 📌 About the Project
-IMPORTANT POINT :- THIS ENTIRE PROJECT IS DONE ON REAL TIME DATA WITH SOME CHANGES IN DATA FOR PRIVACY END.
+IMPORTANT POINT :- THIS ENTIRE PROJECT IS DONE ON REAL TIME DATA WITH SOME CHANGES IN DATA FOR PRIVACY.
 
 MPEB Electricity Consumer Analytics is an end-to-end Data Analytics project developed to analyze electricity consumer data and generate meaningful business insights.
 
